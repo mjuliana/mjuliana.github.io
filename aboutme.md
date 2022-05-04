@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+# subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Matthew Juliana and I have been playing with computers most of my life. I've been in the tech industry for almost 25 years now. I have had a varity of roles from developer to DBA to architect and just about everything in between.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+One of the phrases that I have uttered countless times throughout my career is "Let's try this". Regardless of my confidence or knowledge I find that taking a risk on tryingin something new helps to solve a lot of problems and even leads to innovation. 
 
-What else do you need?
+The purpose of this blog is to share quick technical tidbits that I have tried over the years that will hopefully help you when your trying something new.
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<!-- ### My story -->
+

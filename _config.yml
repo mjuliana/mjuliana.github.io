@@ -6,7 +6,11 @@
 # --- Required options --- #
 
 # Name of website
+<<<<<<< HEAD
 title: My Website
+=======
+title: Lets Try This
+>>>>>>> 1b78cc27da463726e0a8e7591a30f9eb42bc899d
 
 # Your name to show in the footer
 author: Some Person
@@ -27,7 +31,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
